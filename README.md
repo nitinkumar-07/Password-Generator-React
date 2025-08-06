@@ -32,9 +32,8 @@ This is my **first React project**, built while learning and exploring React fun
 
 ---
 
-## 📂 Live Demo & Repository
+## 📂 Live Demo 
 - 🌐 **Live Demo:** [Click Here] https://password-generator-0reactjs.netlify.app/ 
-- 📦 **LinkedIn:** [Click Here] https://www.linkedin.com/in/nitin-kumar-491813336/
 
 ---
 
@@ -45,6 +44,7 @@ This is my **first React project**, built while learning and exploring React fun
 - Adding simple UI/UX enhancements
 
 ---
+- 📦 **LinkedIn:** [Click Here] https://www.linkedin.com/in/nitin-kumar-491813336/
 
 ## 💡 How to Run Locally
 ```bash
