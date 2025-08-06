@@ -27,13 +27,14 @@ This is my **first React project**, built while learning and exploring React fun
 ---
 
 ## 📸 Preview  
-![Password Generator Screenshot](Add_Image_If_Available)
+<img width="1913" height="901" alt="Screenshot 2025-08-06 144353" src="https://github.com/user-attachments/assets/43430893-1c92-45eb-ac59-092fa08f554e" />
+
 
 ---
 
 ## 📂 Live Demo & Repository
-- 🌐 **Live Demo:** [Click Here](https://your-netlify-link.com)  
-- 📦 **GitHub Repo:** [Click Here](https://github.com/nitinkumar-07/password-generator)
+- 🌐 **Live Demo:** [Click Here] https://password-generator-0reactjs.netlify.app/ 
+- 📦 **LinkedIn:** [Click Here] https://www.linkedin.com/in/nitin-kumar-491813336/
 
 ---
 
