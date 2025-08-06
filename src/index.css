@@ -1,0 +1,34 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@media screen and (max-width:400px){
+   .mobile-view,.btn{
+    font-size: 18px;
+
+   }
+
+   h1{
+      font-size: 22px;
+   }
+
+   .length{
+      width: 11rem;
+   }
+   .input-text{
+      font-size: 17px;
+   }
+
+   #charInput{
+      margin-left: 0.40rem;
+   }
+
+   #uppercaseIn{
+      margin-left: 0.20rem;
+   }
+
+   #lowercaseIn{
+      margin-left: 0.55rem;
+   }
+}
